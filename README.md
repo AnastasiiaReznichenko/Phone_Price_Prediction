@@ -37,7 +37,8 @@ pip install -r requirements.txt
     'video_720p','video_1080p','video_4K','video_8K','video_30fps','video_60fps','video_120fps','video_240fps','video_480fps','video_960fps','price(USD)'
   
 
-### Results summary:[
+### Results summary:
+
 Blog post: https://medium.com/@nastyareznichenko/how-mobile-phone-pricing-is-formed-1c5df04055c4
 
 ### Licensing, Authors, and Acknowledgment
